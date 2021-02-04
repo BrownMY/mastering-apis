@@ -1,0 +1,23 @@
+{
+  "name": "mastering-apis",
+  "version": "1.0.0",
+  "description": "Mastering APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrownMY/mastering-apis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrownMY/mastering-apis/issues"
+  },
+  "homepage": "https://github.com/BrownMY/mastering-apis#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
